@@ -1,0 +1,7 @@
+*.opendb
+*.VC.db
+bin/
+obj/
+x64/
+packages/
+.vs/
